@@ -23,7 +23,14 @@ This repository categorises computer vision research papers about single image-b
 [Amodal Panoptic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Mohan_Amodal_Panoptic_Segmentation_CVPR_2022_paper.pdf) (CVPR22)
 
 [Perceiving the Invisible: Proposal-Free Amodal Panoptic Segmentation](https://arxiv.org/abs/2205.14637) (RA-L22)
+
 #### Amodal scene layouts
+
+[Monolayout: Amodal scene layout from a single image](https://arxiv.org/abs/2002.08394) (WACV20)
+
+[Seeing the un-scene: Learning amodal semantic maps for room navigation](https://arxiv.org/abs/2007.09841) (ECCV20)
+
+[Weakly but Deeply Supervised Occlusion-Reasoned Parametric Road Layouts](https://arxiv.org/abs/2104.06730) (CVPR22)
 
 ### 2. Amodal Appearance Completion <a name="2"></a>
 #### Object-centric Representations for Toy Datasets
